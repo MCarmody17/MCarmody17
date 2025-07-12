@@ -1,19 +1,19 @@
 # Welcome to My GitHub! 🚀
 
-![GitHub Banner](https://via.placeholder.com/800x200.png?text=Welcome+to+My+GitHub)
-
-Hello there! I'm **Matthew**, a dedicated **Cloud Software Developer** at [Ericsson](https://www.ericsson.com/en). Welcome to my GitHub space 
+Hey, I'm **Matt**, a dedicated **Cloud Software Engineer** at [LSEG](https://uk.linkedin.com/company/london-stock-exchange-group). Welcome to my GitHub space 
 
 ## About Me
 
-- 💻 **Passion**: Cloud computing, software development, and continuous learning.
+- 💻 **Passion**: Cloud computing, software development, and Data Science.
 - 🌱 **Currently Exploring**: Serverless architectures, Kubernetes, and AI integrations.
 - 🛠️ **Projects**: Creating solutions to solve real-world problems and improve efficiency.
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MCarmody17)](https://git.io/streak-stats)
+![Visitor Count](https : //profile-counter.glitch.me/{MCarmody17}/count.svg)
 ## Technologies & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
